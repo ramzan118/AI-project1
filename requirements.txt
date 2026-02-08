@@ -2,3 +2,4 @@ huggingface_hub==0.25.2
 transformers
 gradio
 torch
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
